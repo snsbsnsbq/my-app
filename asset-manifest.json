@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Denis/static/css/main.695ab5c9.chunk.css",
+    "main.js": "/Denis/static/js/main.62cf6907.chunk.js",
+    "main.js.map": "/Denis/static/js/main.62cf6907.chunk.js.map",
+    "runtime-main.js": "/Denis/static/js/runtime-main.691ceb72.js",
+    "runtime-main.js.map": "/Denis/static/js/runtime-main.691ceb72.js.map",
+    "static/js/2.14a2ffb2.chunk.js": "/Denis/static/js/2.14a2ffb2.chunk.js",
+    "static/js/2.14a2ffb2.chunk.js.map": "/Denis/static/js/2.14a2ffb2.chunk.js.map",
+    "static/css/3.859c17c3.chunk.css": "/Denis/static/css/3.859c17c3.chunk.css",
+    "static/js/3.1d289491.chunk.js": "/Denis/static/js/3.1d289491.chunk.js",
+    "static/js/3.1d289491.chunk.js.map": "/Denis/static/js/3.1d289491.chunk.js.map",
+    "index.html": "/Denis/index.html",
+    "precache-manifest.a2b0f8be67b2403abac82aef3368cd1c.js": "/Denis/precache-manifest.a2b0f8be67b2403abac82aef3368cd1c.js",
+    "service-worker.js": "/Denis/service-worker.js",
+    "static/css/3.859c17c3.chunk.css.map": "/Denis/static/css/3.859c17c3.chunk.css.map",
+    "static/css/main.695ab5c9.chunk.css.map": "/Denis/static/css/main.695ab5c9.chunk.css.map",
+    "static/js/2.14a2ffb2.chunk.js.LICENSE.txt": "/Denis/static/js/2.14a2ffb2.chunk.js.LICENSE.txt",
+    "static/media/preloader.gif": "/Denis/static/media/preloader.80c89a71.gif",
+    "static/media/user.png": "/Denis/static/media/user.f8a15e74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.691ceb72.js",
+    "static/js/2.14a2ffb2.chunk.js",
+    "static/css/main.695ab5c9.chunk.css",
+    "static/js/main.62cf6907.chunk.js"
+  ]
+}
